@@ -1,6 +1,6 @@
 # 진중문고 책 리스트
 
-역대 진중문고 책 리스트입니다. 없는 연도/책이 있다면 Pull Request를 통해서 추가해주세요.
+역대 진중문고 책 리스트입니다. 없는 연도/책이 있으면 Pull Request로 통해서 추가해주세요 ([예시](https://github.com/seandkim/jinjoongmoongo/pull/1))
 
 ## Source
 
